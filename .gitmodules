@@ -1,0 +1,6 @@
+[submodule "diet-hero-client"]
+	path = diet-hero-client
+	url = git@github.com:Rock-Paper-Queens/diet-hero-client.git
+[submodule "diet-hero-server"]
+	path = diet-hero-server
+	url = git@github.com:Rock-Paper-Queens/diet-hero-server.git
